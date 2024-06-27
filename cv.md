@@ -6,7 +6,7 @@
 
 - Location: Gomel, Belarus
 - Phone: +375291142778
-- Email: shesujko5@icloud.com
+- Email: shesujko5@gmail.com
 - Linkedin: (www.linkedin.com/in/diana-cheshuyko-aa12b73110)
 - GitHub: (https://github.com/dziyanachashuika)
 - Telegram: @devanky
