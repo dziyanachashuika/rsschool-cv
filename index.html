@@ -7,13 +7,31 @@
   <link rel="stylesheet" href="./style.css">
 </head>
 <body>
+  <header class="header">
+    <div class="container-header"></div>
+    <nav class="nav">
+      <ul class="nav-list">
+        <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+        <li class="nav-item"><a href="#about_me" class="nav-link">About me</a></li>
+    </nav>
+  </header>
   <div class="container">
         <section class="section container-profile">
-          <img src="C:\Users\Divanka\Desktop\rsschool-cv\rsschool-cv\images\fa2d8979-41d8-40b4-ab97-6c3fb8feaa02.jpg" alt="avatar" class="avatar">
+          <img src="./images/fa2d8979-41d8-40b4-ab97-6c3fb8feaa02.jpg" alt="avatar" class="avatar">
     <section class="page-title">
-      <h1 class="main-title">Dziyana Chashuika</h1>
-      <p>Junior Frontend Developer</p>
+      <h1 class="main-title">DZIYANA CHASHUIKA</h1>
+      <p><i>Junior Frontend Developer</i></p>
     </section>
+    <div class="section">
+      <div class="section-title">Contacts</div>
+      <div class="section-content">
+        <p>Hello! I'm from Gomel, Belarus.</p>
+        <ul>
+          <li>Email: shesujko5@gmail.com</li>
+          <li>Phone: +375291142778</li>
+        </ul>
+      </div>
+    </div>
     <div class="section">
       <div class="section-title">About Me</div>
       <div class="section-content">
@@ -21,28 +39,48 @@
       </div>
     </div>
     <div class="section">
-      <div class="section-title">Contacts</div>
+      <div class="section-title">Education</div>
       <div class="section-content">
-        <ul>
-          <li>Location: Gomel, Belarus</li>
-          <li>Email: shesujko5@gmail.com</li>
-          <li>Phone: +375291142778</li>
-          <li><a href="https://github.com/dziyanachashuika">Github</a></li>
-        </ul>
+        <p>Baranovichi State University</p>
+        <p>Bachelor in Foreign Languages</p>
       </div>
     </div>
     <div class="section">
-      <div class="section-title">Education</div>
+      <div class="section-title">Skills</div>
       <div class="section-content">
-        <p>Bachelor of Education in Foreign Languages</p>
-        <p>Baranovichi State University</p>
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>Git</li>
+          </ul>
+      </div>
+    </div>
+    <div class="section">
+      <div class="section-title">Code example</div>
+      <div class="section-content">
+        <pre><code>
+          let a = Number(prompt());
+          let b = Number(prompt());
+          let x = a ** b;
+          console.log(x);
+        </code></pre>
+      </div>
+    </div>
+    <div class="section">
+      <div class="section-title">Languages</div>
+      <div class="section-content">
+        <p>English Advanced</p>
+        <p>German Intermediate</p>
       </div>
     </div>
     <footer class="footer">
-      <div class="container footer-container">
-      <a href="https://github.com/dziyanachashuika" class="git">Github</a>
-      <p class="section-year">© 2024</p>
-      <a href="https://rs.school/courses/javascript-preschool-ru" class="rss"></a>
+      <div class="container flex-container">
+        <div class="footer-item">
+        <img src="./images/rss-logo.svg" alt="logo" class="logo">
+      <a href="https://github.com/dziyanachashuika" class="footer-link">Github</a>
+      <span>© 2024</span>
+      <a href="https://rs.school/js/" class="rss">RSSchool</a>
+      </div>
       </div>
   </footer>
 </body>
