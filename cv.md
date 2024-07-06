@@ -1,4 +1,3 @@
-rsschool-cv-html
 # [rsschool-cv](https://dziyanachashuika.github.io/rsschool-cv/cv)
 
 # Dziyana Chashuika
