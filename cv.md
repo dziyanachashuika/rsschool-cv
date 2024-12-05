@@ -13,7 +13,7 @@
 
 # About me
 
-I am a responsible specialist who values ​​punctuality and constantly strives for improving the quality of work processes. Highly developed
+I am a responsible specialist who values punctuality and constantly strives for improving the quality of work processes. Highly developed
 communication skills allow me to establish effective interactions in
 team and successfully solve problems that require attention to detail and precision.
 
@@ -31,7 +31,7 @@ Code example
 - console.log(x);
 
 # Experience
-
+- I have a good experience in Manual Testing. 
 # Education
 
 - University: Baranovichi State University, Foreign language Teacher
@@ -40,4 +40,4 @@ Code example
 
 # English
 
-- English B2/C1 (Bachelor of Education in foreign languages)
+- English C1 (Bachelor of Foreign Languages)
